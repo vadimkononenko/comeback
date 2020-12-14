@@ -1,4 +1,4 @@
-package solutions;
+package solutionsFirst;
 
 public class MaxMinAvg {
     public static void main(String[] args) {
