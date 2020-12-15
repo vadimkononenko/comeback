@@ -1,6 +1,5 @@
 package solutionsSecond;
 
-import java.util.Arrays;
 import java.util.Random;
 
 public class Vector {
